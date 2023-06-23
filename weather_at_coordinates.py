@@ -11,13 +11,11 @@ ApiKey='A2MXWCT2HR3N4RH7TQUGA6ZSV'
 #UnitGroup sets the units of the output - us or metric
 UnitGroup='metric'
 
-df = pandas.DataFrame()
-
 newdf = []
-                        
+
 with open('formatted_data_tester.txt', 'r') as data_file:
     for line_number, line in enumerate(data_file):
-        if (line_number + 1) % 200 == 0:
+        if (line_number + 1) % 5 == 0:
             print(line)
 
             photo, day, latitude, longitude, date_time, cloud = line.split(',')
@@ -82,11 +80,11 @@ with open('formatted_data_tester.txt', 'r') as data_file:
             # Parse the results as CSV
             CSVText1 = csv.reader(codecs.iterdecode(CSVBytes, 'utf-8'))
 
+        
             newdf.append(CSVText1)
 
             '''
             RowIndex = 0
-
         
             # The first row contain the headers and the additional rows each contain the weather metrics for a single day
             # To simply our code, we use the knowledge that column 0 contains the location and column 1 contains the date.  The data starts at column 4
@@ -95,26 +93,33 @@ with open('formatted_data_tester.txt', 'r') as data_file:
                     FirstRow = Row
                 else:
                     print('Weather in ', Row[0], ' on ', Row[1])
-
                     ColIndex = 0
                     for Col in Row:
                         if ColIndex >= 4:
                             print('   ', FirstRow[ColIndex], ' = ', Row[ColIndex])
                         ColIndex += 1
                 RowIndex += 1
-
             # If there are no CSV rows then something fundamental went wrong
             if RowIndex == 0:
                 print('Sorry, but it appears that there was an error connecting to the weather server.')
                 print('Please check your network connection and try again..')
-
             # If there is only one CSV  row then we likely got an error from the server
             if RowIndex == 1:
                 print('Sorry, but it appears that there was an error retrieving the weather data.')
                 print('Error: ', FirstRow)
             '''
 
-for new_data in newdf:
-    df = pandas.concat([df, pandas.DataFrame(new_data)], ignore_index=True)
+df = pandas.DataFrame(data = newdf)
+data = []
+headers = df[0][0]
+print(headers)
+for i in range(df.shape[0]):
+    data1 = df[1][i]
+    data.append(data1)
 
-print(df)
+df2 = pandas.DataFrame(data, columns=headers)
+df2.drop(columns = ['tempmax','tempmin','feelslikemax','feelslikemin','feelslike','dew','humidity','precipprob','precipcover','preciptype','snow','snowdepth','windgust','visibility','solarradiation',
+                          'solarenergy','uvindex','severerisk','sunrise','sunset','moonphase','description','icon','stations'], axis = 1, inplace=True)
+print(df2)
+
+df2.to_csv('weather_data.csv')

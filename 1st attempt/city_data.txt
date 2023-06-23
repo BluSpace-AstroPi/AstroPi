@@ -1,0 +1,2333 @@
+Tokyo,35.6897,139.6922
+Jakarta,-6.175,106.8275
+Guangzhou,23.13,113.26
+Mumbai,19.0761,72.8775
+Shanghai,31.1667,121.4667
+Sao Paulo,-23.55,-46.6333
+Seoul,37.56,126.99
+Cairo,30.0444,31.2358
+Dhaka,23.7639,90.3889
+Beijing,39.904,116.4075
+Kolkata,22.5675,88.37
+Bangkok,13.7525,100.4942
+Shenzhen,22.535,114.054
+Moscow,55.7558,37.6178
+Buenos Aires,-34.5997,-58.3819
+Lagos,6.455,3.3841
+Istanbul,41.0136,28.955
+Karachi,24.86,67.01
+Bangalore,12.9789,77.5917
+Ho Chi Minh City,10.7756,106.7019
+Osaka,34.6939,135.5022
+Chengdu,30.66,104.0633
+Tehran,35.6892,51.3889
+Chennai,13.0825,80.275
+Xi'an,34.2667,108.9
+Lahore,31.5497,74.3436
+Chongqing,29.55,106.5069
+London,51.5072,-0.1275
+Paris,48.8567,2.3522
+Hyderabad,17.385,78.4867
+Tianjin,39.1467,117.2056
+Lima,-12.06,-77.0375
+Wuhan,30.5872,114.2881
+Hangzhou,30.25,120.1675
+Nagoya,35.1833,136.9
+Luanda,-8.8383,13.2344
+Kuala Lumpur,3.1478,101.6953
+Quanzhou,24.9139,118.5858
+Nanjing,32.0608,118.7789
+Hanoi,21.0283,105.8542
+Pune,18.5203,73.8567
+Ahmedabad,23.03,72.58
+Johannesburg,-26.2044,28.0456
+Bogota,4.7111,-74.0722
+Shenyang,41.8025,123.4281
+Khartoum,15.5006,32.56
+Shangqiu,34.4259,115.6467
+Hong Kong,22.3,114.2
+Zhanjiang,21.1967,110.4031
+Hengyang,26.8968,112.5857
+Riyadh,24.6333,46.7167
+Santiago,-33.4372,-70.6506
+Zunyi,27.705,106.9336
+Surat,21.1702,72.8311
+Surabaya,-7.2458,112.7378
+Madrid,40.4169,-3.7033
+Baghdad,33.3153,44.3661
+Singapore,1.3,103.8
+Dalian,38.9,121.6
+Qingdao,36.1167,120.4
+Douala,4.05,9.7
+Zhengzhou,34.7492,113.6605
+Jinan,36.6667,116.9833
+Nairobi,-1.2864,36.8172
+Guadalajara,20.6767,-103.3475
+Ankara,39.93,32.85
+Toronto,43.7417,-79.3733
+Suzhou,33.6333,116.9683
+Monterrey,25.6667,-100.3
+Belo Horizonte,-19.9167,-43.9333
+Xianyang,34.35,108.7167
+Guilin,25.2819,110.2864
+Abidjan,5.3167,-4.0333
+Jiujiang,29.7048,116.0021
+Alexandria,31.1975,29.8925
+Sydney,-33.8678,151.21
+Barcelona,41.3825,2.1769
+Changsha,28.1987,112.9709
+Melbourne,-37.8142,144.9631
+Berlin,52.52,13.405
+Kunming,25.0433,102.7061
+Changchun,43.9,125.2
+Casablanca,33.5333,-7.5833
+Zhangjiakou,40.8108,114.8811
+Urumqi,43.8225,87.6125
+Suzhou,31.3,120.6194
+Izmir,38.42,27.14
+Shantou,23.3735,116.6941
+Kabul,34.5253,69.1783
+Mogadishu,2.0392,45.3419
+Hefei,31.8639,117.2808
+Liuzhou,24.3264,109.4281
+Shijiazhuang,38.0422,114.5086
+Ningbo,29.875,121.5492
+Fuzhou,27.9814,116.3577
+Zhuzhou,27.8407,113.1469
+Amman,31.9497,35.9328
+Jeddah,21.5433,39.1728
+Taiyuan,37.8733,112.5425
+Kano,12,8.5167
+Nanning,22.8192,108.315
+Harbin,45.75,126.6333
+Abuja,9.0667,7.4833
+Xiamen,24.4797,118.0819
+Fuzhou,26.0769,119.2917
+Anshan,41.1066,122.9895
+Medan,3.5894,98.6739
+Wenzhou,27.9991,120.6561
+Nanchang,28.6842,115.8872
+Busan,35.18,129.075
+Hohhot,40.8151,111.6629
+Algiers,36.7539,3.0589
+Tangshan,39.6292,118.1742
+Lucknow,26.85,80.95
+Siping,43.1715,124.3644
+Mashhad,36.3,59.6
+Dubai,25.2631,55.2972
+Guiyang,26.5794,106.7078
+Wuxi,31.5667,120.2833
+Faisalabad,31.4167,73.0911
+Jaipur,26.9,75.8
+Lanzhou,36.0617,103.8318
+Athens,37.9842,23.7281
+Addis Ababa,9.03,38.74
+Brasilia,-15.7939,-47.8828
+Kuwait City,29.3697,47.9783
+Budapest,47.4925,19.0514
+Shaoguan,24.8011,113.5927
+Kyiv,50.45,30.5233
+Guatemala City,14.6099,-90.5252
+Birmingham,52.48,-1.9025
+Daqing,46.5979,125.008
+Salvador,-12.9747,-38.4767
+Haikou,20.02,110.32
+Pyongyang,39.0194,125.7381
+Stuttgart,48.7775,9.18
+Guayaquil,-2.19,-79.8875
+Manchester,53.4794,-2.2453
+Baotou,40.6562,109.8345
+Zigong,29.3498,104.7645
+Maracaibo,10.6333,-71.6333
+Zibo,36.7831,118.0497
+Antananarivo,-18.9333,47.5167
+Munich,48.1375,11.575
+Santo Domingo,18.4764,-69.8933
+Tashkent,41.3111,69.2797
+Medellin,6.2308,-75.5906
+Yantai,37.3997,121.2664
+Hamburg,53.55,10
+Cali,3.4206,-76.5222
+Lusaka,-15.4167,28.2833
+Xining,36.6239,101.7787
+Fortaleza,-3.7275,-38.5275
+Yaounde,3.8667,11.5167
+Jilin,43.8519,126.5481
+Antalya,36.8874,30.7075
+Nagpur,21.1497,79.0806
+Accra,5.55,-0.2
+Luoyang,34.6587,112.4245
+Brisbane,-27.4678,153.0281
+Huainan,32.4831,117.0164
+Colombo,6.9344,79.8428
+Baku,40.3667,49.8352
+Fukuoka,33.5833,130.4
+Tangerang,-6.1783,106.6319
+Caracas,10.4806,-66.9036
+Konya,37.8667,32.4833
+Manaus,-3.1,-60.0167
+Esfahan,32.6447,51.6675
+Harare,-17.8292,31.0522
+Havana,23.1367,-82.3589
+Perth,-31.9559,115.8606
+Huaibei,33.9562,116.789
+Kumasi,6.6667,-1.6167
+Portland,45.5371,-122.65
+Vishakhapatnam,17.7042,83.2978
+Fushun,41.8708,123.8917
+Bamako,12.6458,-7.9922
+Quito,-0.22,-78.5125
+Minsk,53.9,27.5667
+Tijuana,32.525,-117.0333
+Bamenda,5.9614,10.1517
+Indore,22.7167,75.8472
+Sanliurfa,37.1583,38.7917
+Vienna,48.2083,16.3725
+Peshawar,34.0144,71.5675
+Sapporo,43.0667,141.35
+Pingxiang,27.6333,113.85
+Aleppo,36.2,37.16
+Almaty,43.2775,76.8958
+San Juan,18.3985,-66.061
+Yinchuan,38.4795,106.2254
+Bucharest,44.4325,26.1039
+Curitiba,-25.4297,-49.2711
+Multan,30.1978,71.4697
+Warsaw,52.23,21.0111
+Meru,0.05,37.65
+Bhopal,23.25,77.4167
+Denpasar,-8.65,115.2167
+Adana,37,35.3213
+Damascus,33.5131,36.2919
+Brussels,50.8467,4.3525
+Diyarbakir,37.91,40.24
+San Jose,37.3012,-121.848
+Montevideo,-34.8836,-56.1819
+Mosul,36.34,43.13
+Kampala,0.3136,32.5811
+Patna,25.6,85.1
+Tegucigalpa,14.1,-87.2167
+Conakry,9.5092,-13.7122
+Recife,-8.05,-34.9
+Novosibirsk,55.0333,82.9167
+Semarang,-6.9667,110.4167
+Ludhiana,30.91,75.85
+Stockholm,59.3294,18.0686
+Agra,27.18,78.02
+Puebla,19.0333,-98.1833
+Madurai,9.9252,78.1198
+Cordoba,-31.4167,-64.1833
+Shiraz,29.61,52.5425
+Jamshedpur,22.7925,86.1842
+Tabriz,38.0814,46.3006
+Sofia,42.7,23.33
+San Jose,9.9325,-84.08
+Palembang,-2.9861,104.7556
+Zhangjiajie,29.1255,110.4844
+Panama City,8.9833,-79.5167
+Belem,-1.4558,-48.5039
+Gwangju,35.1653,126.8486
+Nasik,20,73.78
+Porto Alegre,-30.0331,-51.23
+Valencia,10.1667,-68
+Abu Dhabi,24.4667,54.3667
+Daejeon,36.351,127.385
+Dakar,14.6928,-17.4467
+Kharkiv,49.9925,36.2311
+Khulna,22.8167,89.55
+Ulaanbaatar,47.9203,106.9172
+Goiania,-16.6667,-49.25
+Belgrade,44.82,20.46
+Aurangabad,19.88,75.32
+Copenhagen,55.6761,12.5683
+Yangquan,37.8576,113.5762
+Auckland,-36.8406,174.74
+Makassar,-5.1619,119.4362
+Santiago,19.4572,-70.6889
+Rajkot,22.3,70.7833
+Prague,50.0875,14.4214
+Samsun,41.2903,36.3336
+Barranquilla,10.9833,-74.8019
+Mandalay,21.9831,96.0844
+Yushu,44.8249,126.5451
+Adelaide,-34.9275,138.6
+Tripoli,32.8872,13.1914
+Porto,41.1621,-8.622
+Jabalpur,23.1667,79.9333
+Mombasa,-4.05,39.6667
+Varanasi,25.3189,83.0128
+Maiduguri,11.8333,13.15
+Chiang Mai,18.7953,98.9986
+Doha,25.2867,51.5333
+Maputo,-25.9667,32.5833
+Srinagar,34.09,74.79
+Omsk,54.9667,73.3833
+Dublin,53.35,-6.2603
+Bandar Lampung,-5.45,105.2667
+Samara,53.2028,50.1408
+Kigali,-1.9536,30.0606
+Bafoussam,5.4667,10.4167
+Amritsar,31.64,74.86
+Tbilisi,41.7225,44.7925
+Guwahati,26.1722,91.7458
+Ufa,54.7261,55.9475
+Sao Luis,-2.5283,-44.3044
+Sevilla,37.24,-5.99
+Mexicali,32.6633,-115.4678
+Tamale,9.4075,-0.8533
+Bujumbura,-3.3833,29.3667
+Bishkek,42.8747,74.6122
+Yerevan,40.1814,44.5144
+Ranchi,23.36,85.33
+Gwalior,26.2215,78.178
+Oslo,59.9133,10.7389
+Vijayawada,16.5193,80.6305
+Chandigarh,30.75,76.78
+Sendai,38.2682,140.8694
+Barquisimeto,10.0678,-69.3467
+Cartagena,10.4,-75.5
+Jodhpur,26.28,73.02
+Sanya,18.2533,109.5036
+Niamey,13.515,2.1175
+Maceio,-9.6658,-35.735
+Odesa,46.4775,30.7326
+Volgograd,48.7086,44.5147
+Islamabad,33.6931,73.0639
+Port-au-Prince,18.5333,-72.3333
+Raipur,21.25,81.63
+Arequipa,-16.4,-71.5333
+Kota,25.18,75.83
+Quetta,30.1833,67
+Kathmandu,27.7172,85.324
+Asmara,15.3228,38.925
+Freetown,8.4844,-13.2344
+Vientiane,17.9667,102.6
+Jerusalem,31.7784,35.2066
+Riga,56.9489,24.1064
+Dushanbe,38.5367,68.78
+Lome,6.1319,1.2228
+Ashgabat,37.95,58.3833
+Zagreb,45.8167,15.9833
+Libreville,0.3903,9.4542
+Cotonou,6.3667,2.4333
+Pretoria,-25.7461,28.1881
+Vilnius,54.6872,25.28
+Chisinau,47.0228,28.8353
+Port Moresby,-9.4789,147.1494
+Skopje,41.9961,21.4317
+Djibouti,11.5883,43.145
+Kingston,17.9714,-76.7931
+San Salvador,13.6989,-89.1914
+Asuncion,-25.3,-57.6333
+Juba,4.85,31.6
+Bissau,11.85,-15.5667
+Bratislava,48.1439,17.1097
+Tallinn,59.4372,24.7453
+Beirut,33.8869,35.5131
+Cape Town,-33.9253,18.4239
+Sarajevo,43.8564,18.4131
+Wellington,-41.2889,174.7772
+Banjul,13.4531,-16.5775
+Canberra,-35.2931,149.1269
+Victoria,48.4283,-123.3647
+Nicosia,35.1725,33.365
+Windhoek,-22.57,17.0836
+Porto-Novo,6.4972,2.605
+Ljubljana,46.0514,14.5061
+Nassau,25.0781,-77.3386
+Bloemfontein,-29.1167,26.2167
+Gaborone,-24.6581,25.9122
+Paramaribo,5.8522,-55.2039
+Dodoma,-6.1731,35.7419
+Georgetown,6.8058,-58.1508
+Suva,-18.1416,178.4419
+Noumea,-22.2758,166.458
+Pristina,42.6633,21.1622
+Port Louis,-20.1644,57.5042
+Podgorica,42.4413,19.2629
+Gitega,-3.4283,29.925
+Reykjavik,64.1467,-21.94
+Luxembourg,49.6117,6.1319
+Bridgetown,13.0975,-59.6167
+Moroni,-11.699,43.256
+Thimphu,27.4722,89.6361
+Mbabane,-26.3208,31.1617
+Castries,14.0167,-60.9833
+Bandar Seri Begawan,4.8903,114.9422
+Apia,-13.8333,-171.75
+Oranjestad,12.5186,-70.0358
+George Town,19.2866,-81.3744
+Victoria,-4.6167,55.45
+Nuuk,64.1814,-51.6942
+Torshavn,62,-6.7833
+Hamilton,32.2942,-64.7839
+Kingston,-29.0569,167.9617
+Bareilly,28.364,79.415
+Pekanbaru,0.5092,101.4453
+Dnipro,48.4675,35.04
+Gode,5.9527,43.5516
+Natal,-6.9838,-60.2699
+Kirkuk,35.4667,44.3167
+Morelia,19.7683,-101.1894
+Malaga,36.7194,-4.42
+Coimbatore,11.0168,76.9558
+Teresina,-5.0949,-42.8042
+Solapur,17.68,75.92
+Kermanshah,34.3142,47.065
+Krasnodar,45.0333,38.9667
+Aguascalientes,21.876,-102.296
+Marrakech,31.63,-8.0089
+Donetsk,48.0028,37.8053
+Trujillo,-8.112,-79.0288
+Padang,-0.95,100.3531
+Campo Grande,-20.4839,-54.615
+Lhasa,29.6534,91.1719
+Cancun,21.1606,-86.8475
+Merida,20.97,-89.62
+Natal,-5.7833,-35.2
+Chihuahua,28.6353,-106.0889
+Sale,34.0333,-6.8
+Marseille,43.2964,5.37
+Bucaramanga,7.1333,-73
+Saltillo,25.4231,-100.9919
+Liverpool,53.4075,-2.9919
+Ipoh,4.5972,101.075
+Oran,35.6969,-0.6331
+Southampton,50.9025,-1.4042
+Hermosillo,29.0989,-110.9542
+Wuxi,26.5895,111.8481
+Ilorin,8.5,4.55
+Saratov,51.5333,46.0167
+Bhubaneshwar,20.27,85.84
+Thessaloniki,40.6403,22.9347
+Culiacan,24.8069,-107.3939
+Joao Pessoa,-7.12,-34.88
+Queretaro,20.5875,-100.3928
+Krakow,50.0614,19.9372
+George Town,5.4144,100.3292
+Palermo,2.8917,-75.4375
+Valencia,39.47,-0.3764
+Leeds,53.8003,-1.5497
+Bilbao,43.2569,-2.9236
+Homs,34.7333,36.7167
+Khujand,40.2833,69.6333
+San Luis Potosi,22.1511,-100.9761
+Dali,25.6808,100.3003
+Rajshahi,24.3667,88.6
+Erzurum,39.9086,41.2769
+Frankfurt,50.1106,8.6822
+Patiala,30.34,76.38
+Samarinda,-0.5,117.1378
+Cucuta,7.8942,-72.5039
+Thiruvananthapuram,8.4875,76.9525
+Nampula,-15.1167,39.2667
+Kerman,30.2833,57.0833
+Orumiyeh,37.5486,45.0675
+Lviv,49.8425,24.0322
+Reynosa,26.0922,-98.2778
+Concepcion,-36.8282,-73.0514
+Mwanza,-2.5167,32.9
+Changsha,22.3762,112.6877
+Torreon,25.5394,-103.4486
+Shihezi,44.3054,86.0804
+Enugu,6.4528,7.5111
+Birmingham,33.5279,-86.7971
+Banjarmasin,-3.32,114.5925
+Salem,11.65,78.15
+General Santos,6.1167,125.1667
+Vellore,12.9165,79.1325
+Hamilton,43.2567,-79.8692
+Lodz,51.7769,19.4547
+Kochi,9.97,76.28
+Mar del Plata,-38,-57.55
+Rasht,37.2808,49.5831
+Gorakhpur,26.7637,83.4039
+Zaragoza,41.65,-0.8833
+Wroclaw,51.11,17.0325
+Murcia,37.9861,-1.1303
+Palermo,38.1157,13.3613
+Villavicencio,4.15,-73.6333
+Bouake,7.6833,-5.0167
+Mazatlan,23.2167,-106.4167
+Bulawayo,-20.17,28.58
+Izhevsk,56.85,53.2167
+Petaling Jaya,3.0972,101.6444
+Gold Coast,-28.0167,153.4
+Aracaju,-10.9167,-37.05
+Barnaul,53.3333,83.75
+Benghazi,32.1167,20.0667
+Mangalore,12.902,74.8253
+Glasgow,55.8611,-4.25
+Ulyanovsk,54.3167,48.3667
+Irkutsk,52.2833,104.2833
+Pontianak,-0.0206,109.3414
+Leipzig,51.34,12.375
+Serang,-6.12,106.1503
+Jambi,-1.59,103.61
+Gothenburg,57.7075,11.9675
+Vladivostok,43.1333,131.9
+Kuantan,3.8167,103.3333
+Haifa,32.8192,34.9992
+Albany,42.6664,-73.7987
+Garoua,9.3,13.4
+Balikpapan,-1.2768,116.8277
+Durban,-29.8833,31.05
+Pereira,4.8143,-75.6946
+Zahedan,29.4964,60.8628
+Cuiaba,-15.5958,-56.0969
+Essen,51.4508,7.0131
+Port Sudan,19.6167,37.2167
+Tomsk,56.4886,84.9522
+Bristol,51.4536,-2.5975
+Irbid,32.55,35.85
+Bremen,53.0833,8.8
+Orenburg,51.7667,55.1
+Surakarta,-7.5667,110.8167
+Dresden,51.05,13.74
+Kemerovo,55.3667,86.0667
+Herat,34.3419,62.2031
+Ajmer,26.4499,74.6399
+Rustenburg,-25.6667,27.2428
+Poznan,52.4083,16.9336
+Samarkand,39.6547,66.9758
+Hannover,52.3667,9.7167
+Valledupar,10.4833,-73.25
+Ibague,4.4333,-75.2333
+Kassala,15.45,36.4
+Tripoli,34.4367,35.8344
+Salta,-24.7833,-65.4167
+Gulbarga,17.329,76.825
+Lyon,45.76,4.84
+Antwerp,51.2178,4.4003
+Yazd,31.8822,54.3397
+Ardabil,38.2425,48.29
+Bikaner,28.0167,73.3119
+Agartala,23.8333,91.2833
+Ndola,-12.9667,28.6333
+Penza,53.2,45
+Arak,34.0917,49.6892
+Sheffield,53.3808,-1.4703
+Santa Marta,11.2419,-74.2053
+Maturin,9.7423,-63.1889
+Macapa,0.033,-51.0653
+Monteria,8.75,-75.8833
+Jammu,32.73,74.87
+Kirov,58.6,49.65
+Johor Bahru,1.4556,103.7611
+Toulouse,43.6045,1.444
+Kota Bharu,6.1333,102.25
+Nyala,12.05,24.8833
+Cheboksary,56.1333,47.25
+Toledo,41.6638,-83.5827
+Edinburgh,55.9533,-3.1892
+Tula,54.2,37.6167
+Gdansk,54.3475,18.6453
+Sylhet,24.9,91.8667
+Gaya,24.75,85.01
+Florianopolis,-27.6122,-48.4853
+Kaliningrad,54.7003,20.4531
+San Juan,-31.5342,-68.5261
+Piura,-5.2,-80.6333
+Buraydah,26.3333,43.9667
+Manado,1.4931,124.8413
+Cranbourne,-38.0996,145.2834
+Melaka,2.1944,102.2486
+Kota Kinabalu,5.975,116.0725
+Kursk,51.7167,36.1833
+Udaipur,24.58,73.68
+Barcelona,10.1333,-64.6833
+Constantine,36.365,6.6147
+Bandung,-6.912,107.6097
+Zurich,47.3744,8.5411
+Ulan-Ude,51.8272,107.6064
+Beira,-19.8333,34.85
+Kupang,-10.1702,123.6077
+Jeju,33.5097,126.5219
+Manizales,5.1,-75.55
+Yogyakarta,-7.8014,110.3644
+Veracruz,19.1903,-96.1533
+Zanjan,36.6789,48.5056
+Sokoto,13.0622,5.2339
+Porto Velho,-8.7619,-63.9039
+Trabzon,41.005,39.7225
+Akola,20.7,77
+Buenaventura,3.8772,-77.0267
+Daloa,6.8833,-6.45
+Boa Vista,2.8194,-60.6714
+Luhansk,48.5667,39.3333
+Mataram,-8.5833,116.1167
+Jayapura,-2.533,140.717
+Rio Branco,-9.9747,-67.81
+Sanandaj,35.3144,46.9922
+Bhagalpur,25.25,87
+Ivanovo,57,41
+Kisumu,-0.0833,34.7667
+Augusta,33.3645,-82.0708
+Maracay,10.2469,-67.5958
+Szczecin,53.4325,14.5481
+Sandakan,5.8388,118.1173
+Surgut,61.25,73.4333
+Thies,14.7833,-16.9167
+Belgorod,50.6,36.6
+Nha Trang,12.245,109.1917
+Yola,9.23,12.46
+Pasto,1.2078,-77.2772
+Bologna,44.4939,11.3428
+Plovdiv,42.15,24.75
+Christchurch,-43.531,172.6365
+Brno,49.1925,16.6083
+London,42.9836,-81.2497
+Novi Sad,45.2542,19.8425
+Kaunas,54.8972,23.8861
+Taunggyi,20.7836,97.0354
+Iquitos,-3.75,-73.25
+Mamou,10.3833,-12.0833
+Ambon,-3.7,128.1667
+Newcastle,-27.7464,29.9328
+Bengkulu,-3.7956,102.2592
+Palu,-0.895,119.8594
+Pokhara,28.2083,83.9889
+Vitoria,-20.2889,-40.3083
+Vladimir,56.1286,40.4058
+Karnal,29.686,76.989
+Villahermosa,17.9892,-92.9281
+San Fernando,15.0333,120.6833
+Malmo,55.6058,13.0358
+Van,38.4942,43.38
+Neiva,2.9345,-75.2809
+Varna,43.2167,27.9167
+Gorgan,36.8386,54.4347
+Holguin,20.8869,-76.2592
+Palmira,3.5833,-76.25
+Chita,52.0333,113.5
+Nice,43.7034,7.2663
+Simferopol,44.9484,34.1
+Brest,52.1347,23.6569
+Kaluga,54.5333,36.2667
+Lublin,51.25,22.5667
+Cuernavaca,18.9186,-99.2342
+Reading,51.4542,-0.9731
+Belfast,54.5964,-5.93
+Salamanca,20.5703,-101.1972
+Cuenca,-2.8974,-79.0045
+Tampere,61.4981,23.76
+Kendari,-3.9907,122.5086
+Smolensk,54.7828,32.0453
+Nakuru,-0.3,36.0667
+Debrecen,47.53,21.6392
+Kochi,33.5589,133.5314
+Cluj-Napoca,46.7667,23.5833
+Bari,41.1253,16.8667
+Pucallpa,-8.3833,-74.55
+Kuching,1.5575,110.3439
+Mekele,13.4969,39.4769
+Naha,26.2122,127.6792
+Nantes,47.2181,-1.5528
+Osh,40.5333,72.7833
+Cordoba,37.8845,-4.7796
+Camaguey,21.3839,-77.9075
+Maroua,10.5971,14.3157
+Saransk,54.1833,45.1833
+Nukus,42.4667,59.6
+Puerto Plata,19.8,-70.6833
+Ca Mau,9.1833,105.15
+Vologda,59.2167,39.9
+Orel,52.9686,36.0694
+Santa Ana,33.7367,-117.8819
+Port Elizabeth,-33.9581,25.6
+Catania,37.5,15.0903
+Gwangju,37.3667,127.2833
+Kurgan,55.4408,65.3411
+Vladikavkaz,43.04,44.6775
+Juliaca,-15.4833,-70.1333
+Parbhani,19.27,76.78
+Puerto Princesa,9.75,118.75
+Santarem,-2.43,-54.72
+Armenia,4.53,-75.68
+Popayan,2.4542,-76.6092
+Newcastle,54.98,-1.61
+Tampico,22.2553,-97.8686
+Bialystok,53.1353,23.1456
+Merida,8.48,-71.19
+Murmansk,68.9706,33.075
+Valladolid,41.6528,-4.7236
+Reading,40.34,-75.9267
+Valparaiso,-33.0461,-71.6197
+Vigo,42.2314,-8.7124
+Strasbourg,48.5833,7.7458
+Tambov,52.7167,41.4333
+Iasi,47.1622,27.5889
+Kherson,46.6425,32.625
+Setif,36.19,5.41
+Ipswich,52.0594,1.1556
+Sincelejo,9.295,-75.3961
+Ostrava,49.8356,18.2925
+Tacna,-18.0147,-70.2489
+Constanta,44.1667,28.6333
+Coro,11.395,-69.6816
+Petrozavodsk,61.7833,34.35
+Santa Ana,13.995,-89.5561
+Maastricht,50.85,5.6833
+Kostroma,57.7681,40.9269
+Mamuju,-2.6833,118.9
+Dire Dawa,9.6,41.8667
+Palmas,-10.1844,-48.3336
+Craiova,44.3333,23.8167
+Plymouth,50.3714,-4.1422
+Gijon,43.5333,-5.7
+Salem,44.9233,-123.0244
+Imphal,24.8074,93.9384
+Bergen,60.3894,5.33
+Djelfa,34.6667,3.25
+Bordeaux,44.84,-0.58
+Nawabshah,26.2442,68.41
+Annaba,36.9,7.7667
+Wollongong,-34.4331,150.8831
+Tuzla,40.8161,29.3006
+Derby,52.9217,-1.4767
+Verona,45.4386,10.9928
+St. Petersburg,27.7931,-82.6652
+Antsirabe,-19.8667,47.0333
+Puducherry,11.9167,79.8167
+Arua,3.0353,30.9108
+Vitoria-Gasteiz,42.85,-2.6833
+Tacloban,11.2444,125.0039
+Turku,60.45,22.2667
+A Coruna,43.3667,-8.3833
+Yanbu,24.0883,38.0582
+Palangkaraya,-2.21,113.92
+Kiel,54.3233,10.1394
+Sibu,2.3,111.8167
+Syktyvkar,61.6667,50.8167
+Gyor,47.6842,17.6344
+Biratnagar,26.4542,87.2797
+Mahajanga,-15.7167,46.3167
+Tanga,-5.0667,39.1
+Bahir Dar,11.6,37.3833
+Myitkyina,25.3833,97.4
+Sakaka,29.9697,40.2
+Lille,50.6278,3.0583
+Chimoio,-19.1167,33.45
+Halle,51.4828,11.9697
+Szeged,46.255,20.145
+Kosice,48.7167,21.25
+Banda Aceh,5.55,95.3175
+Scottsdale,33.6872,-111.8651
+Nyiregyhaza,47.9531,21.7271
+Pathein,16.7778,94.7369
+Magdeburg,52.1317,11.6392
+Abha,18.2169,42.5053
+Groningen,53.2167,6.5667
+Bole,44.8539,82.0514
+Miri,4.3925,113.9861
+Granada,37.1781,-3.6008
+Barishal,22.7,90.3667
+Santa Ana,14.58,121.012
+Puerto Vallarta,20.6458,-105.2222
+Toluca,19.2925,-99.6569
+Toamasina,-18.15,49.4167
+Mutare,-18.9667,32.6333
+Cork,51.8972,-8.47
+Hobart,-42.8806,147.325
+Polokwane,-23.9,29.45
+Portland,43.6773,-70.2715
+Cordoba,18.8942,-96.9347
+Pleiku,13.9833,108
+Bitung,1.4472,125.1978
+San Miguel,13.4814,-88.1775
+Oviedo,43.36,-5.845
+Zamora,19.9833,-102.2833
+Alor Setar,6.1183,100.3694
+Cartagena,37.6,-0.9819
+Zielona Gora,51.9333,15.5
+Valencia,7.9042,125.0928
+Norwich,52.6286,1.2928
+Gangneung,37.75,128.9
+Golmud,36.4072,94.9283
+Geneva,46.2017,6.1469
+Shimla,31.1033,77.1722
+Erfurt,50.9833,11.0333
+Sikasso,11.3167,-5.6667
+Colombo,-25.2919,-49.2239
+Jerez de la Frontera,36.6817,-6.1378
+Tumaco,1.8067,-78.7647
+Pskov,57.8167,28.3333
+Barrancabermeja,7.0667,-73.85
+Rostock,54.0833,12.1333
+Sunyani,7.3333,-2.3333
+Toledo,10.3833,123.65
+Monywa,22.1083,95.1417
+Parakou,9.35,2.6167
+Biskra,34.85,5.7333
+Zanzibar,-6.165,39.199
+Ziguinchor,12.5833,-16.2667
+Ternate,0.78,127.3819
+Charleroi,50.4,4.4333
+Aberdeen,57.15,-2.11
+Birjand,32.8667,59.2167
+Torun,53.0222,18.6111
+Kassel,51.3158,9.4979
+Luxor,25.6833,32.65
+Lang Son,21.8478,106.7578
+Tarakan,3.3,117.6333
+Ha Tinh,18.3333,105.9
+Cajamarca,-7.1667,-78.5167
+Norwich,41.5495,-72.0882
+Almeria,36.8403,-2.4681
+Kasama,-10.2117,31.1783
+Liege,50.6397,5.5706
+Banja Luka,44.7725,17.1925
+Alcala de Henares,40.4818,-3.3643
+Kankan,10.3833,-9.3
+N'Zerekore,7.75,-8.8167
+Rzeszow,50.0333,22
+Eldoret,0.5167,35.2833
+Mbarara,-0.6133,30.6583
+La Serena,-29.9,-71.25
+Trondheim,63.4297,10.3933
+Gorontalo,0.5333,123.0667
+Quelimane,-17.8764,36.8872
+San Fernando,7.894,-67.473
+Rijeka,45.3272,14.4411
+Jalapa,14.6379,-89.9904
+Guanare,9.0436,-69.7489
+Florencia,1.6139,-75.6128
+Fianarantsoa,-21.4536,47.0858
+Manzanillo,19.0522,-104.3158
+Ngaoundere,7.3167,13.5833
+Braga,41.5503,-8.42
+Kecskemet,46.9061,19.6897
+Iquique,-20.2167,-70.15
+Semnan,35.5728,53.3972
+Geelong,-38.15,144.35
+Siguiri,11.4189,-9.1644
+Nis,43.3192,21.8961
+Abakan,53.7167,91.4667
+Sittwe,20.167,92.785
+Kindia,10.0497,-12.8542
+Edirne,41.6769,26.5556
+Split,43.51,16.44
+Mongu,-15.2775,23.1319
+Townsville,-19.25,146.8167
+Salalah,17.0197,54.0897
+Hamilton,-37.7833,175.2833
+Kandi,11.1286,2.9369
+Meiktila,20.8833,95.8833
+Santander,43.4628,-3.805
+Saint-Louis,16.0333,-16.5
+Burgos,42.3408,-3.6997
+Olsztyn,53.7778,20.4792
+Ratnapura,6.6806,80.4022
+Leon,12.4344,-86.8775
+Silchar,24.82,92.8
+Tlemcen,34.8828,-1.3167
+Gadag,15.4167,75.6167
+Albacete,38.9956,-1.8558
+San Miguel,15.1458,120.9783
+Kaolack,14.1389,-16.0764
+Cape Coast,5.1,-1.25
+Surigao,9.7897,125.4958
+Concepcion,15.3249,120.6554
+Puerto Montt,-41.4667,-72.9333
+Toliara,-23.35,43.6667
+Calabozo,8.9219,-67.4283
+Riohacha,11.5442,-72.9069
+Katha,24.1822,96.3306
+Manchester,42.9848,-71.4447
+Tuguegarao,17.6133,121.7303
+Tabora,-5.0167,32.8
+Ipiales,0.8303,-77.6444
+Perugia,43.1122,12.3889
+Klaipeda,55.75,21.1667
+Bechar,31.6333,-2.2
+Kandy,7.2964,80.635
+Cienfuegos,22.1456,-80.4364
+Ipswich,-27.6167,152.7667
+Tunja,5.5333,-73.3667
+Guadalajara,40.6337,-3.1674
+Kidapawan,7.0083,125.0894
+San Miguel,-34.5333,-58.7167
+Arad,46.175,21.3125
+Herne,51.55,7.2167
+Cadiz,10.95,123.3
+Alexandria,38.8185,-77.0861
+Port Arthur,29.8554,-93.9264
+Ghorahi,28.0333,82.4833
+Cagliari,39.2278,9.1111
+Gulu,2.7817,32.2992
+Regensburg,49.0167,12.0833
+San Juan,14.6,121.03
+Dibrugarh,27.48,95
+Tete,-16.1667,33.6
+San Jose,12.3528,121.0676
+Newcastle,-32.9167,151.75
+Nevsehir,38.6264,34.7139
+Siem Reap,13.3622,103.8597
+Logrono,42.465,-2.4456
+Bohicon,7.2,2.0667
+Tauranga,-37.6833,176.1667
+Marbella,36.5167,-4.8833
+Tororo,0.6928,34.1811
+Mzuzu,-11.4581,34.0151
+San Jose,15.7919,120.99
+Miskolc,48.0833,20.6667
+Manzanillo,20.3397,-77.1086
+Kragujevac,44.0142,20.9394
+Badajoz,38.8803,-6.9753
+Panama City,30.1995,-85.6003
+Santiago,16.6833,121.55
+Szombathely,47.2351,16.6219
+Pemba,-12.9667,40.55
+Sibiu,45.7928,24.1519
+Salamanca,40.965,-5.6642
+Malakal,9.55,31.65
+Cairns,-16.92,145.78
+Calapan,13.414,121.18
+Shillong,25.5744,91.8789
+David,8.4333,-82.4333
+Coimbra,40.2111,-8.4292
+Yopal,5.35,-72.41
+Huelva,37.25,-6.95
+Lichinga,-13.3167,35.2333
+Brest,48.39,-4.49
+Moundou,8.5667,16.0833
+Athens,33.9508,-83.3689
+Gweru,-19.4614,29.8022
+Bondoukou,8.0333,-2.8
+Lleida,41.6167,0.6333
+Pecs,46.0708,18.2331
+La Romana,18.43,-68.97
+Dawei,14.0833,98.2
+Norrkoping,58.6,16.2
+Sale,53.424,-2.322
+Orange,33.8038,-117.8218
+Dipolog,8.5872,123.3408
+Darwin,-12.4381,130.8411
+Tarragona,41.1187,1.2453
+Beaumont,30.0849,-94.1451
+Livingstone,-17.85,25.8667
+Tiraspol,46.8403,29.6433
+Rionegro,6.1535,-75.3743
+Toowoomba,-27.5667,151.95
+Elizabeth,40.6658,-74.1913
+Pyay,18.8167,95.2167
+Cartago,4.7,-75.9167
+Nakhon Ratchasima,14.975,102.1
+Segou,13.45,-6.2667
+Innsbruck,47.2683,11.3933
+Thandwe,18.4667,94.3667
+San Juan,18.81,-71.23
+Buea,4.1667,9.2333
+Lao Cai,22.4806,103.975
+Antsiranana,-12.3,49.2833
+Lashio,22.9333,97.75
+Nueva Concepcion,14.1997,-91.2997
+Quibdo,5.6922,-76.6581
+Batticaloa,7.7167,81.7
+Cambridge,43.3972,-80.3114
+Mansa,-11.2,28.8833
+Koforidua,6.0833,-0.25
+Kadoma,34.7333,135.5833
+Anderlecht,50.8333,4.3333
+Leiria,39.75,-8.8
+Cambridge,52.2053,0.1192
+San Fernando,16.62,120.32
+Exeter,50.7256,-3.5269
+Panevezys,55.7333,24.35
+Magelang,-7.4667,110.2167
+Dover,39.161,-75.5202
+Leon,42.6056,-5.57
+Ouahigouya,13.5833,-2.4167
+Savannakhet,16.55,104.75
+Setubal,38.5243,-8.8926
+Cherkessk,44.2222,42.0575
+Malindi,-3.2236,40.13
+Cadiz,36.535,-6.2975
+Punta Arenas,-53.1667,-70.9333
+Braganca,-1.0628,-46.7728
+Pescara,42.4643,14.2142
+Chinandega,12.6297,-87.1283
+Kuopio,62.8925,27.6783
+Upington,-28.4572,21.2425
+Apartado,7.8833,-76.6333
+Zonguldak,41.4564,31.7986
+Ghardaia,32.4833,3.6667
+Toledo,-24.7139,-53.7428
+Nevinnomyssk,44.6333,41.9333
+Kabwe,-14.4333,28.45
+Machakos,-1.5167,37.2667
+Xai-Xai,-25.05,33.65
+Kyzyl,51.7167,94.45
+Mendoza,-32.8833,-68.8167
+Cambridge,42.3759,-71.1185
+Kasese,0.1867,30.0881
+Boke,10.94,-14.3
+Khon Kaen,16.4333,102.8333
+Pedro Juan Caballero,-22.53,-55.75
+Waterloo,42.4918,-92.3522
+San Juan,13.826,121.396
+Kristiansand,58.1472,7.9972
+Ioannina,39.6636,20.8522
+Mostar,43.3436,17.8075
+Madrid,4.7344,-74.2683
+Mopti,14.49,-4.18
+Laoag,18.1978,120.5936
+Trincomalee,8.5667,81.2333
+Jaen,37.7667,-3.7711
+Funchal,32.65,-16.9167
+Trier,49.7567,6.6414
+Namur,50.4667,4.8667
+Manzini,-26.4833,31.3667
+Tuzla,44.5381,18.6761
+Kintampo,8.0522,-1.7347
+Masindi,1.6836,31.7222
+Dali,34.7953,109.9378
+Montego Bay,18.4667,-77.9167
+Labe,11.3167,-12.2833
+Beja,36.7333,9.1833
+Witbank,-25.877,29.201
+Botosani,47.7486,26.6694
+Zilina,49.2228,18.74
+Reus,41.1549,1.1087
+Taungoo,18.9333,96.4333
+Islamabad,33.73,75.15
+Siauliai,55.9333,23.3167
+Sarh,9.15,18.3833
+Koszalin,54.2,16.1833
+Queenstown,-31.9,26.8833
+Bolzano,46.4981,11.3548
+Erdenet,49.0278,104.0444
+Wa,10.0667,-2.5
+Launceston,-41.4419,147.145
+Catbalogan,11.7833,124.8833
+Ourense,42.3364,-7.8633
+Granada,11.9347,-85.9589
+Girona,41.9833,2.8167
+Liberec,50.7667,15.0667
+Waterloo,43.4667,-80.5167
+Balti,47.7667,27.9167
+Francistown,-21.1736,27.5125
+Roquetas de Mar,36.7642,-2.6147
+Techiman,7.5772,-1.9292
+Natitingou,10.3,1.3667
+Elista,46.3167,44.2667
+Biak,-1.18,136.08
+Hove,50.8352,-0.1758
+Nyeri,-0.4167,36.95
+Piacenza,45.05,9.7
+Leuven,50.8833,4.7
+Dhangadhi,28.7136,80.5692
+Aurangabad,24.7,84.35
+Klagenfurt,46.6167,14.3
+Ancona,43.6169,13.5167
+Port Blair,11.6683,92.7378
+Gangtok,27.33,88.62
+Diourbel,14.655,-16.2314
+Dunedin,-45.8742,170.5036
+Viseu,40.6667,-7.9167
+Maribor,46.5575,15.6456
+Kohima,25.67,94.1
+Galle,6.0536,80.2117
+Santiago de Compostela,42.8778,-8.5444
+Chipata,-13.6453,32.6464
+Janakpur,26.7286,85.925
+San Fernando,36.4667,-6.2
+Arauca,7.0903,-70.7617
+Kakamega,0.2822,34.754
+Labuan,5.3,115.22
+Wajir,1.75,40.05
+Mtwara,-10.2736,40.1828
+San Isidro,14.4685,121.0118
+Vanadzor,40.8128,44.4883
+Hastings,50.85,0.57
+Tartu,58.3833,26.7167
+Magadan,59.5667,150.8
+Jaffna,9.6647,80.0167
+Umea,63.825,20.2639
+Masvingo,-20.0744,30.8328
+Ouidah,6.3667,2.0833
+Solwezi,-12.1433,26.3858
+Mechelen,51.0278,4.4806
+Viana do Castelo,41.7,-8.8333
+Bertoua,4.5833,13.6833
+Ebolowa,2.9167,11.15
+Odienne,9.5,-7.5667
+San Fernando,10.2833,-61.4667
+Toledo,39.8567,-4.0244
+Cozumel,20.5104,-86.9493
+Louga,15.6167,-16.2167
+Nazareth,32.7019,35.3033
+Osijek,45.5556,18.6944
+Barahona,18.2,-71.1
+Ho,6.6119,0.4703
+Phuket,7.8881,98.3975
+Kayes,14.45,-11.4167
+Daugavpils,55.875,26.5356
+Galway,53.2719,-9.0489
+Puerto Ayacucho,5.6631,-67.6264
+Aviles,43.5561,-5.9083
+Ubon Ratchathani,15.2281,104.8594
+Carlisle,54.891,-2.944
+Garissa,-0.4569,39.6583
+Aveiro,40.6333,-8.65
+Tambacounda,13.7689,-13.6672
+Faranah,10.0333,-10.7333
+Abeche,13.8331,20.8347
+Palmerston North,-40.355,175.6117
+Tamworth,52.633,-1.695
+Tamanrasset,22.785,5.5228
+Teyateyaneng,-29.1511,27.7425
+Assab,13.0167,42.7333
+Fada Ngourma,12.05,0.3667
+Torremolinos,36.6218,-4.5003
+Ajaccio,41.9267,8.7369
+Nizwa,22.9333,57.5333
+Najran,17.4917,44.1322
+Chiang Rai,19.9094,99.8275
+Sagaing,21.8822,95.9786
+Encarnacion,-27.3333,-55.8667
+Liepaja,56.5117,21.0139
+Ponta Delgada,37.74,-25.67
+Potenza,40.6333,15.8
+Arrecife,28.9625,-13.5506
+Bolgatanga,10.7833,-0.85
+San Jose,10.7433,121.9411
+Forest,50.8131,4.3247
+Kitale,1.0167,35
+Etterbeek,50.8333,4.3833
+Songkhla,7.2061,100.5967
+Soroti,1.715,33.6111
+Faro,37.0161,-7.935
+Bangor,54.66,-5.67
+Inhambane,-23.865,35.3833
+Dedougou,12.4667,-3.4667
+Anuradhapura,8.335,80.4108
+Jette,50.8667,4.3333
+Rovaniemi,66.5,25.7333
+Kolda,12.8833,-14.95
+Santarem,39.2339,-8.6861
+Napier,-39.4903,176.9178
+Madang,-5.2167,145.8
+Coyhaique,-45.5667,-72.0667
+Trujillo,15.9186,-85.9533
+Merida,38.9,-6.3333
+Bekescsaba,46.679,21.091
+Mafeteng,-29.8167,27.25
+Belize City,17.4986,-88.1886
+Maun,-19.9833,23.4167
+Ushuaia,-54.8019,-68.3031
+Mugla,37.2167,28.3667
+Mocoa,1.15,-76.6475
+Castelo Branco,39.8167,-7.5
+Ohrid,41.1169,20.8019
+Hamilton,55.777,-4.039
+Gao,16.2667,-0.05
+Alajuela,10.164,-84.2645
+Kabale,-1.25,29.99
+Liberia,10.6333,-85.4333
+Marondera,-18.1897,31.5467
+Valladolid,20.6894,-88.2017
+Gopalpur,24.5583,89.9167
+Vila Real,41.2958,-7.7461
+Choma,-16.7711,26.9922
+Whangarei,-35.725,174.3236
+Evere,50.8667,4.4
+Ostersund,63.1792,14.6358
+Campobasso,41.5667,14.6667
+Lulea,65.5844,22.1539
+Inverness,57.4778,-4.2247
+San Isidro,-34.4667,-58.5167
+Birendranagar,28.6,81.6333
+Leribe,-28.8734,28.0416
+Invercargill,-46.4131,168.3475
+New Amsterdam,6.25,-57.5167
+Nagykanizsa,46.455,16.9925
+Santiago,8.1004,-80.9833
+Nelson,-41.2708,173.2839
+Dori,14.03,-0.03
+Vilvoorde,50.9281,4.4245
+Alexandria,43.9686,25.3333
+Dhaka,26.72,85.33
+Concepcion,-23.4,-57.43
+Salem,42.5129,-70.9021
+Kapan,39.2011,46.415
+Freeport,40.6515,-73.585
+Dubrovnik,42.6403,18.1083
+Guarda,40.5333,-7.3333
+San Jose,-34.3333,-56.7167
+Embu,-0.5389,37.4583
+Puntarenas,9.9667,-84.8333
+Ngozi,-2.9083,29.8269
+Kisii,-0.6833,34.7667
+Parnu,58.3833,24.5
+Koekelberg,50.8667,4.3333
+Kaffrine,14.1014,-15.5432
+Dover,51.1295,1.3089
+Trujillo,9.417,-70.5
+Mannar,8.9772,79.9138
+Rutherglen,55.828,-4.214
+San Miguel,14.6,121
+Beja,38.0333,-7.8833
+Aosta,45.7333,7.3167
+Ganshoren,50.8667,4.3167
+Gisborne,-38.6625,178.0178
+Braganca,41.8067,-6.7589
+Lens,50.4322,2.8333
+Ventspils,57.3906,21.5733
+Kericho,-0.3692,35.2839
+San Juan,9.9609,-84.0731
+Leticia,-4.2167,-69.9333
+Santa Ana,14.5277,121.0766
+San Fernando,24.8504,-98.16
+Tripoli,37.5167,22.3833
+Moyale,3.527,39.056
+Lamu,-2.2694,40.9022
+Cahul,45.9167,28.1836
+Nuwara Eliya,6.9667,80.7667
+Mortsel,51.1667,4.4667
+Linden,6,-58.3
+Wellington,52.7001,-2.5157
+Cartago,9.8667,-83.9167
+Mitu,1.1983,-70.1733
+Mytilini,39.1,26.55
+Saint-Nicolas,50.6333,5.5333
+Mongo,12.1837,18.7
+Arar,30.9833,41.0167
+Blenheim,-41.5167,173.95
+Dongola,19.1698,30.4749
+Ulaangom,49.9833,92.0667
+Kanchanaburi,14.0194,99.5311
+Kerkyra,39.6239,19.9214
+Heredia,9.9985,-84.1169
+Mohale's Hoek,-30.15,27.4667
+Wewak,-3.55,143.6333
+Truro,50.26,-5.051
+Portalegre,39.3167,-7.4167
+Yate,51.5402,-2.411
+Novo Mesto,45.8,15.1667
+Edegem,51.15,4.45
+Balasore,21.4942,86.9317
+Fatick,14.3333,-16.4069
+San Fernando,34.2886,-118.4362
+Kilkenny,52.6477,-7.2561
+Dover,40.0019,-76.8698
+Wexford,52.3342,-6.4575
+Phetchabun,16.4169,101.1533
+Ghat,24.9644,10.1781
+Goroka,-6.0833,145.3833
+Ghanzi,-21.7,21.65
+Wellington,50.9755,-3.2243
+Boom,51.0833,4.3667
+Luganville,-15.5333,167.1667
+Mwanza,-15.5986,34.5178
+Albany,37.8897,-122.3018
+Kavieng,-2.5667,150.8
+San Isidro,9.9737,-83.9861
+Young,-32.7,-57.6333
+Kedougou,12.55,-12.1833
+Lelydorp,5.6967,-55.2167
+Tsetserleg,47.4769,101.4503
+Dover,40.8859,-74.5597
+San Fernando,16.8717,-93.2063
+Filadelfia,-22.34,-60.03
+Valparaiso,22.7667,-103.5667
+Tak,16.8711,99.125
+Matam,15.6167,-13.3333
+Marsabit,2.3333,37.9833
+Lodwar,3.1167,35.6
+Puerto Carreno,6.1833,-67.4667
+Gopalpur,26.1317,84.3594
+Wezembeek-Oppem,50.8333,4.5
+Kraainem,50.8619,4.4572
+Bartica,6.4,-58.6167
+Whakatane,-37.96,176.98
+Sukhothai,17,99.8167
+Santa Ana,9.932,-84.176
+Santa Ana,30.5406,-111.1205
+Paro,27.4333,89.4167
+Quthing,-30.4001,27.7002
+Kidal,18.4389,1.4083
+Nalerigu,10.5333,-0.3667
+Djanet,24.555,9.4853
+Baruun-Urt,46.6814,113.2803
+Hemiksem,51.15,4.35
+Borsbeek,51.2,4.4833
+Da Nang,16.0748,108.224
+Beaumont,45.7517,3.0831
+Kingston,41.2652,-75.8876
+Nieuw Nickerie,5.9333,-56.9833
+Bocas del Toro,9.3403,-82.242
+Launceston,50.637,-4.36
+Daru,-9.0833,143.2
+Bulgan,48.8119,103.5336
+Zamora,-4.0692,-78.9567
+Mandalgovi,45.7667,106.2697
+Newman,37.3156,-121.0212
+Vanimo,-2.6667,141.2833
+Bol,13.46,14.74
+Reinosa,43.0019,-4.1378
+Muyinga,-2.85,30.3333
+Auki,-8.7667,160.7
+Victoria,36.0436,14.2431
+Kasane,-17.8167,25.15
+Derby,39.84,-104.9172
+Mokhotlong,-29.2885,29.0656
+Bogota,40.8751,-74.0293
+Kone,-21.059,164.8518
+Greymouth,-42.45,171.2075
+Mae Hong Son,19.3011,97.97
+Thaba-Tseka,-29.5333,28.6
+Albina,5.5,-54.05
+Samtse,27.0333,89.0833
+Mongar,27.275,91.24
+Groningen,5.8,-55.4667
+Trashigang,27.3326,91.5528
+Lethem,3.3833,-59.8
+Mabaruma,8.2,-59.7833
+Damongo,9.0833,-1.8167
+Oranjestad,17.4833,-62.9833
+Lakatoro,-16.1069,167.4208
+Nelspruit,-25.4745,30.9703
+Narok,-1.0833,35.8667
+Sari,36.5633,53.0601
+Saratamata,-15.2875,167.9903
+Ilam,33.6374,46.4227
+San Jose,10.18,125.5683
+Goaso,6.8,-2.5167
+Gaoua,10.2992,-3.2508
+Sedhiou,12.7,-15.55
+Qacha's Nek,-30.1167,28.6833
+Sur,22.5667,59.5289
+Sola,-13.875,167.55
+Tanjung Selor,2.85,117.3833
+Georgetown,-7.9286,-14.4119
+Sundsvall,62.4,17.3167
+Udine,46.0667,13.2333
+Ballarat,-37.5608,143.8475
+Trelew,-43.25,-65.3
+Lugo,43.0167,-7.55
+Bendigo,-36.75,144.2667
+Muzaffarabad,34.3583,73.4722
+Mons,50.45,3.95
+Caceres,39.4833,-6.3667
+Lecce,40.35,18.1667
+Kwekwe,-18.9167,29.8167
+Jaen,-5.7083,-78.8083
+Acajutla,13.59,-89.8336
+Hamilton,40.2046,-74.6765
+Caceres,-16.0711,-57.6789
+Pisa,43.7167,10.4
+Aalst,50.9383,4.0392
+Dover,43.1887,-70.8845
+Murcia,10.6,123.0333
+Maiquetia,10.5958,-66.9772
+Tagaytay,14.1,120.9333
+Sharurah,17.4833,47.1167
+Chita,35,136.8667
+Albany,31.5776,-84.1762
+Sambava,-14.2667,50.1667
+Talavera de la Reina,39.9583,-4.8328
+Pontevedra,42.4333,-8.6333
+Melbourne,28.1086,-80.6627
+Mansa,29.9906,75.3996
+Warwick,41.7062,-71.4334
+La Louviere,50.4667,4.1833
+Azov,47.1,39.4167
+San Jose,13.8772,121.105
+Sint-Niklaas,51.1667,4.1333
+Jaen,15.3392,120.9069
+Manresa,41.7264,1.8292
+Plymouth,45.0225,-93.4617
+Kadoma,-18.34,29.9
+Kortrijk,50.8333,3.2667
+Hasselt,50.9305,5.3385
+Palencia,42.0167,-4.5333
+Lod,31.9519,34.8881
+Kengtung,21.2917,99.6083
+Alexandria,31.2923,-92.4702
+Ciudad Real,38.9833,-3.9167
+Palencia,14.6676,-90.3575
+Tura,25.52,90.22
+Estepona,36.4264,-5.1472
+Kasama,36.3452,140.3043
+Jingzhou,37.6911,116.2672
+Mackay,-21.1411,149.1858
+Ostend,51.2258,2.9194
+San Fernando,10.1667,123.7
+Nadi,-17.8,177.4167
+Goa,13.6983,123.4889
+Alexandroupoli,40.85,25.8667
+Bocholt,51.8333,6.6167
+Bunbury,-33.3272,115.6369
+Benidorm,38.5342,-0.1314
+Entebbe,0.05,32.46
+Bundaberg,-24.8661,152.3494
+Victoria,15.5781,120.6819
+Tournai,50.6056,3.3881
+Dublin,37.7161,-121.8963
+Suwalki,54.0989,22.9286
+Bristol,36.5572,-82.2154
+Roxas,10.3197,119.3408
+Lima,40.741,-84.112
+Ko Samui,9.5,100
+Wagga Wagga,-35.1189,147.3689
+Antalaha,-14.8833,50.25
+Southampton,40.8997,-72.4931
+Kissidougou,9.1905,-10.12
+Aflao,6.1468,1.1799
+Genk,50.9662,5.5021
+Georgetown,30.666,-97.6966
+Albany,44.6272,-123.0965
+Roxas,17.1167,121.6167
+Seraing,50.5833,5.5
+Victoria,28.8287,-96.9849
+Ladysmith,-28.5597,29.7806
+Roeselare,50.9447,3.1233
+Jaisalmer,26.9167,70.9167
+Crotone,39.0833,17.1167
+Lugano,46.005,8.9525
+Ponferrada,42.5461,-6.5908
+San Fernando,7.9178,125.3286
+Hamilton,39.3939,-84.5653
+Santa Ana,15.0939,120.7681
+Kayes,-4.1681,13.2939
+Santo Domingo,15.59,120.8786
+Wellington,26.6461,-80.2699
+Plymouth,41.8783,-70.6309
+Bristol,41.6812,-72.9407
+Zamora,41.5033,-5.7556
+Medellin,11.1286,123.9622
+Afula,32.6064,35.2881
+Aranjuez,40.0333,-3.6028
+Kribi,2.935,9.91
+Hamburg,42.7394,-78.8581
+Mouscron,50.7333,3.2167
+Agrigento,37.3167,13.5833
+Roxas,12.5833,121.5
+Manchester,41.7753,-72.5242
+Hua Hin,12.5686,99.9578
+Motril,36.75,-3.5167
+San Fernando,-34.5833,-70.9833
+Avila,40.65,-4.6833
+Den Helder,52.9333,4.75
+Verviers,50.5833,5.85
+Kandi,23.9595,88.0402
+Viseu,-1.1969,-46.14
+Canterbury,51.28,1.08
+San Isidro,15.3097,120.9069
+Christchurch,50.73,-1.78
+Hervey Bay,-25.29,152.84
+Pontevedra,10.3667,122.8833
+Jalapa,13.9222,-86.1253
+Bristol,40.1216,-74.8667
+Rotorua,-38.1378,176.2514
+Cuenca,40.0667,-2.15
+New Plymouth,-39.0578,174.0742
+Santo Domingo,22.5833,-80.2383
+Zaragoza,15.4492,120.7933
+Huesca,42.1333,-0.4167
+Morondava,-20.2847,44.3175
+Kalamata,37.0378,22.1111
+Poprad,49.0594,20.2975
+Victoria,13.1719,121.2756
+Leon,10.7808,122.3894
+Plaisance,19.6,-72.4667
+Yendi,9.4324,-0.0043
+Beaumont,33.9076,-116.9766
+Eilat,29.5569,34.9517
+Horsham,51.062,-0.325
+Segovia,40.9481,-4.1183
+Nicoya,10.1024,-85.4431
+Beloeil,45.5667,-73.2
+Santiago,-29.1919,-54.8669
+Pontevedra,11.4833,122.8333
+Concepcion,-27.3333,-65.5833
+Dublin,40.1112,-83.1454
+Beveren,51.2,4.25
+Donetsk,48.3333,39.9333
+Perth,56.3958,-3.4333
+Valencia,8.2592,-76.1469
+Melle,52.2044,8.3389
+Zwijndrecht,51.8167,4.65
+Beringen,51.0333,5.2167
+Dendermonde,51.0333,4.1
+Montecristi,-1.05,-80.6667
+Anshan,39.7144,118.9964
+Mindat,21.3667,93.9833
+Salvador,20.2094,-75.2231
+Voi,-3.3906,38.5769
+Gaya,11.8878,3.4467
+San Isidro,9.3403,-83.7338
+Port Macquarie,-31.4333,152.9
+Victoria,14.225,121.325
+Gaoua,10.3167,-3.1667
+Concepcion,11.2,123.1
+San Jose,13.6981,123.5186
+Borlange,60.4856,15.4364
+Turnhout,51.3167,4.95
+Manchester,39.9652,-74.3738
+Deinze,50.9833,3.5333
+Tiberias,32.7944,35.5333
+Vlissingen,51.45,3.5667
+Alghero,40.56,8.315
+De Bilt,52.1167,5.2
+Sevilla,4.2689,-75.9361
+Macenta,8.5504,-9.48
+Dilbeek,50.8333,4.25
+Linden,40.6251,-74.2383
+Lokeren,51.1,3.9833
+Kota,34.8645,137.1658
+Palmas,-26.4839,-51.9908
+Hwange,-18.3647,26.5
+Beitbridge,-22.2167,30
+Puerto del Rosario,28.5,-13.8667
+Caceres,7.6667,-75.3333
+San Miguel,8.9322,126.0403
+Santo Domingo,9.988,-84.0686
+Herstal,50.6667,5.6333
+Clermont,28.5325,-81.7208
+Geel,51.1667,5
+San Juan,16.6667,120.3333
+Sint-Truiden,50.8167,5.1833
+Segovia,7.0781,-74.7017
+Valladolid,10.4667,122.8333
+Ninove,50.8333,4.0167
+Halle,50.7361,4.2372
+Ecija,37.5333,-5.0833
+Soria,41.7667,-2.4667
+Lloret de Mar,41.7,2.8333
+Plasencia,40.0275,-6.0908
+Rusape,-18.5367,32.1247
+Oviedo,28.658,-81.1872
+Whanganui,-39.9325,175.0519
+Brasschaat,51.2931,4.4894
+Waregem,50.8811,3.4001
+Dubbo,-32.2569,148.6011
+San Fernando,13.5661,123.1422
+Valencia,9.2833,123.25
+Santo Domingo,13.235,123.7769
+Antsohihy,-14.8762,47.9834
+Grimbergen,50.9333,4.3833
+Orange,-33.2833,149.1
+Srinagar,30.22,78.78
+Santiago,25.4333,-100.1333
+Mahanoro,-19.9,48.8
+Jalapa,17.7,-92.8
+Geraldton,-28.7744,114.6089
+Chatelet,50.4,4.5167
+Kerou,10.825,2.1094
+Tudela,42.0653,-1.6067
+Mol,51.1833,5.1167
+Frankston,-38.158,145.135
+Santa Ana,7.6453,-72.2758
+Cuenca,13.9167,121.05
+Guapiles,10.207,-83.8581
+Kodaikanal,10.23,77.48
+Zaventem,50.8833,4.4667
+Georgetown,38.2247,-84.5487
+Andujar,38.0392,-4.0506
+Augusta,37.25,15.2167
+Dunedin,28.0329,-82.7862
+Chipinge,-20.2,32.62
+Farafangana,-22.8167,47.8167
+Zefat,32.9658,35.4983
+Teruel,40.3456,-1.1065
+Santa Ana,18.4589,122.1419
+Evergem,51.0167,3.7
+Karoi,-16.81,29.7
+Schoten,51.25,4.5
+Gladstone,-23.8427,151.2555
+Angra do Heroismo,38.6558,-27.2153
+Bathurst,-33.42,149.5778
+Armenia,13.75,-89.5
+San Juan,26.1903,-98.152
+Ieper,50.8508,2.885
+Tienen,50.8,4.9333
+Wavre,50.7167,4.6
+Tarkwa,5.3,-1.9833
+Menen,50.7956,3.1217
+Victoria,-38.2333,-72.3333
+Sint-Pieters-Leeuw,50.7833,4.25
+Yangquan,37.0749,111.5541
+Buenos Aires,2.9167,-76.6667
+Cameron Highlands,4.5,101.5
+Exmouth,50.62,-3.413
+Lommel,51.2333,5.3167
+Binche,50.4,4.1667
+Santa Ana,11.068,-63.9221
+Victoria Falls,-17.9333,25.8333
+Dartmouth,41.6138,-70.9973
+Geraardsbergen,50.7667,3.8667
+Valparaiso,41.4783,-87.0506
+Warwick,52.28,-1.59
+Mildura,-34.1889,142.1583
+Asse,50.9,4.2
+Aranda de Duero,41.6833,-3.6833
+Udaipur,23.5389,91.4917
+Palmira,22.2444,-80.3944
+Ross,40.5256,-80.0243
+Knokke-Heist,51.3414,3.2869
+Bilzen,50.8667,5.5167
+Lugo,44.4167,11.9167
+Oudenaarde,50.85,3.6
+Wevelgem,50.8081,3.1839
+Wallsend,54.991,-1.534
+Courcelles,50.4578,4.3756
+Warwick,41.2597,-74.3614
+Sitges,41.2339,1.8042
+Bangor,44.8323,-68.7906
+Merida,10.9098,124.5376
+Waterloo,50.7167,4.3833
+Tongeren,50.7794,5.4631
+Save,8.0333,2.4833
+Riga,26.6553,85.442
+Shepparton,-36.3833,145.4
+Kudymkar,59.0167,54.6667
+Mansa,23.43,72.67
+Lagos,37.1028,-8.6728
+Kalgoorlie,-30.7489,121.4658
+San Miguel,10.7833,122.4667
+Warrnambool,-38.3833,142.4833
+San Isidro,11.4167,124.35
+Salou,41.0796,1.1316
+Victoria,-32.6167,-60.1667
+Puerto de la Cruz,28.4167,-16.55
+Kirov,54.0833,34.3167
+Aarschot,50.9842,4.8333
+Valdepenas,38.7667,-3.4
+Temse,51.1167,4.2
+Bergen,52.6667,4.7167
+Zaragoza,14.6498,-90.8902
+Salem,42.7902,-71.2202
+Nelson,53.8346,-2.218
+Arlon,49.6833,5.8167
+Izegem,50.9172,3.215
+Heywood,53.59,-2.219
+Brecht,51.35,4.6333
+Paraparaumu,-40.9167,175.0167
+Albany,-35.0228,117.8814
+Santo Domingo,17.6414,120.4108
+Udaipur,27.7289,75.4716
+Hobart,41.514,-87.2729
+Buenos Aires,9.1985,-83.2816
+Ans,50.6625,5.52
+Ath,50.6167,3.7667
+Orange,44.1383,4.8097
+Benavente,38.9667,-8.8
+Nivelles,50.5833,4.3167
+Tudela,8.2472,123.8424
+Herentals,51.1833,4.8333
+Harelbeke,50.8567,3.3131
+San Salvador,20.2833,-99.0153
+Santiago,9.2654,125.5602
+Nueva Concepcion,14.1333,-89.3
+Valencia,9.6097,124.208
+Lucenec,48.3286,19.6692
+Aberdeen,45.4649,-98.4686
+Klodzko,50.4333,16.65
+Po,11.1667,-1.15
+Chios,38.3725,26.1375
+San Isidro,12.388,124.331
+Andenne,50.4833,5.1
+Soignies,50.5667,4.0667
+Axim,4.8667,-2.2333
+Mananjary,-21.2311,48.3419
+Lebrija,36.9194,-6.0781
+Timaru,-44.3931,171.2508
+Kapellen,51.3167,4.4333
+Lier,59.8675,10.2142
+Sola,58.8561,5.575
+Ronse,50.75,3.6
+Navrongo,10.8847,-1.0903
+San Isidro,16.8667,121.7667
+San Jose,10.0083,125.5889
+Coffs Harbour,-30.3022,153.1189
+Willebroek,51.0667,4.3667
+Westport,41.1428,-73.3475
+Turrialba,9.8897,-83.6807
+San Juan,17.7431,120.4583
+Tarragona,7.0491,126.4471
+Wellington,11.3655,76.7844
+Zottegem,50.8667,3.8
+Gladstone,39.2134,-94.5592
+Tubize,50.693,4.2047
+Kiruna,67.8489,20.3028
+Mount Gambier,-37.8294,140.7828
+Horsham,40.1993,-75.1665
+Burgos,17.0667,121.7
+Lanaken,50.8925,5.6497
+Canas,10.4457,-85.0992
+Gembloux,50.5667,4.6833
+Wetteren,51,3.8833
+Oupeye,50.7083,5.6431
+Maintirano,-18.0667,44.0167
+Santa Ana,9.319,-74.57
+Beersel,50.7631,4.3086
+Busselton,-33.6478,115.3458
+Overijse,50.7833,4.5333
+San Miguel,10,124.3167
+Maaseik,51.1019,5.7856
+Reading,42.5351,-71.1056
+Exeter,40.3139,-75.834
+San Jose,1.6967,-78.2453
+Hamme,51.0833,4.1333
+Derby,37.5571,-97.2551
+Kariba,-16.5167,28.8
+Moscow,46.7308,-116.9986
+Westerlo,51.0833,4.9167
+Salem,37.2864,-80.0555
+Salamanca,-31.7667,-70.9667
+Merelbeke,51,3.75
+Hastings,40.5961,-98.39
+Athens,34.7843,-86.9503
+Ternate,14.2833,120.7167
+Zwevegem,50.8,3.3333
+Valparaiso,-21.2278,-50.8678
+Armidale,-30.5,151.65
+Arad,31.25,35.2167
+Rochefort,45.9421,-0.9588
+Yanbu,22.7544,120.5724
+Sevan,40.555,44.9536
+Athens,39.327,-82.0987
+Paris,33.6688,-95.546
+Santa Ana,16.8069,-89.8272
+Manage,50.5,4.2333
+San Fernando,12.3167,122.6
+Diest,50.9847,5.0514
+Saint-Louis,47.59,7.57
+Taupo,-38.6875,176.0694
+Zaragoza,7.494,-74.871
+Freeport,42.2891,-89.6346
+Kingston,41.9295,-73.9968
+Maldegem,51.2,3.4333
+Burgos,16.0465,119.8568
+Alice Springs,-23.7,133.8667
+Oostkamp,51.1544,3.2353
+Palu,38.7039,39.9511
+Zemst,50.9722,4.4222
+San Jose,1.4744,-77.0836
+Gitega,-3.426,29.8436
+Saint-Ghislain,50.45,3.8167
+Nijlen,51.1667,4.65
+Devonport,-41.18,146.3503
+Balen,51.1667,5.15
+Fleurus,50.4833,4.5333
+Nazareth,8.5562,77.971
+Zedelgem,51.1431,3.1361
+Goulburn,-34.7547,149.6186
+Tervuren,50.8167,4.5
+Cartagena,-33.5425,-71.5958
+Whyalla,-33.0333,137.5667
+Rixensart,50.7167,4.5333
+Frameries,50.4088,3.8906
+Lochristi,51.1,3.8333
+Koksijde,51.1,2.65
+San Jose,9.4167,123.2333
+Bristol,41.6827,-71.2694
+Zoersel,51.2667,4.7
+Herent,50.9081,4.6706
+Colfontaine,50.4057,3.8514
+Normanton,53.697,-1.416
+Kontich,51.1333,4.45
+Hastings,44.7318,-92.8538
+Halle,52.0667,8.3667
+Casablanca,-33.3167,-71.4167
+San Fernando,12.4858,123.7628
+Ayamonte,37.2,-7.4
+Bornem,51.1,4.2333
+Chaudfontaine,50.5833,5.6333
+Zonhoven,50.9853,5.3647
+Huy,50.5167,5.2333
+Birmingham,42.5446,-83.2166
+Murree,33.9042,73.3903
+Hoogstraten,51.4,4.7667
+Zele,51.0667,4.0333
+Eeklo,51.1858,3.5639
+Denderleeuw,50.8833,4.0833
+Blankenberge,51.3,3.1167
+Geneva,41.8833,-88.3242
+Sint-Katelijne-Waver,51.0667,4.5333
+San Isidro,10.0299,-84.0431
+Varadero,23.1394,-81.2861
+Barcelona,12.8694,124.1419
+Seymour,38.9476,-85.8911
+Florencia,22.1475,-78.9669
+El Calafate,-50.3333,-72.2833
+Dudinka,69.4064,86.1764
+Torhout,51.0661,3.1014
+As,59.6603,10.7836
+Baroda,25.5,76.65
+Ararat,39.8303,44.7025
+Wuustwezel,51.3833,4.6
+Boussu,50.4331,3.7961
+Kortenberg,50.8833,4.5333
+Tielt,50.9989,3.3258
+Quaregnon,50.4333,3.8667
+Boromo,11.75,-2.9333
+Malaga,6.7833,-72.6667
+Schilde,51.2333,4.5667
+Berlin,41.6114,-72.7758
+Zwijndrecht,51.2167,4.3333
+Calatayud,41.35,-1.6333
+San Miguel,7.65,123.2678
+Poperinge,50.8547,2.7256
+Quepos,9.4571,-84.1387
+Portland,27.8942,-97.3278
+Lebbeke,51,4.1167
+Santiago,17.2947,120.4453
+San Miguel,11.2942,124.83
+Carlisle,40.2,-77.2034
+Masterton,-40.97,175.65
+Meise,50.9333,4.3333
+Eupen,50.6333,6.0333
+Ranst,51.2,4.55
+Middelkerke,51.1847,2.8192
+Sint-Gillis-Waas,51.2167,4.1167
+Diepenbeek,50.9072,5.4175
+Essen,51.4667,4.4667
+Grafton,42.2085,-71.6838
+Wervik,50.7797,3.04
+Dalanzadgad,43.57,104.4258
+Stabroek,51.3333,4.3667
+Orange,30.1226,-93.7607
+Lede,50.9667,3.9833
+Griffith,-34.29,146.04
+Bredene,51.2336,2.9756
+Kalmthout,51.3833,4.4667
+Dadeldhura,29.3,80.6
+Aberdeen,40.4165,-74.2249
+Maitland,28.6295,-81.3718
+Kasterlee,51.25,4.95
+Londerzeel,51,4.3
+Sint-Genesius-Rode,50.745,4.3464
+Haaltert,50.9,4
+Santander,9.45,123.3333
+Warwick,40.1558,-76.2799
+Augusta,44.3341,-69.7319
+Tessenderlo,51.0697,5.0897
+Lessines,50.7167,3.8333
+Stekene,51.2,4.0333
+Cambridge,-37.8833,175.4667
+Destelbergen,51.05,3.8
+Beerse,51.3167,4.8667
+Tarifa,36.014,-5.606
+Walcourt,50.25,4.4167
+Levin,-40.6219,175.2867
+Duffel,51.1,4.5167
+Vise,50.7333,5.7
+Manchester,38.583,-90.5064
+Almeria,11.6206,124.3794
+Ambala,17.65,79.05
+San Jose,12.531,124.487
+Trujillo,4.25,-76.3333
+Wemmel,50.9167,4.3
+Ilam,26.908,87.926
+Bathurst,47.62,-65.65
+Herzele,50.8833,3.8833
+Putte,51.05,4.6333
+Plymouth,40.1115,-75.2976
+Puurs,51.0761,4.2803
+Broken Hill,-31.95,141.4667
+Benavente,42.0031,-5.6742
+Berlin,13.5,-88.5333
+Herve,50.6333,5.8
+Wangaratta,-36.3583,146.3125
+Taree,-31.9,152.45
+Fleron,50.6167,5.6833
+Belem,-6.7469,-35.5189
+Filadelfia,-10.7408,-40.1328
+Neerpelt,51.2333,5.4333
+Damme,52.5208,8.1986
+Soumagne,50.6167,5.75
+Lalibela,12.0317,39.0411
+San Isidro,12.9283,-86.1922
+Beaumont,53.3572,-113.4147
+Peruwelz,50.5167,3.5833
+Cajamarca,4.4167,-75.5
+Aubange,49.5667,5.805
+Toledo,7.3131,-72.4875
+Inverness,46.2,-61.1
+Dour,50.3979,3.7807
+Karratha,-20.7364,116.8464
+Kruibeke,51.1667,4.3
+Rotselaar,50.9511,4.7108
+Valencia,-0.9525,-79.3531
+Swansea,41.7571,-71.212
+Bristol,36.6181,-82.1604
+Cessnock,-32.8342,151.3555
+Riemst,50.8089,5.6019
+Damascus,39.2701,-77.1957
+Dilijan,40.7408,44.8631
+Diksmuide,51.0333,2.8667
+Aberdeen,46.9757,-123.8094
+Lille,51.2333,4.8333
+Madrid,9.2619,125.9647
+Machelen,50.9103,4.4367
+Merchtem,50.9667,4.2333
+San Juan,9.159,123.494
+Seymour,41.381,-73.0873
+Hannut,50.6667,5.0833
+Peer,51.1328,5.4536
+Kota,14.0333,80.05
+Bree,51.1333,5.5833
+Segou,6.6167,2.2167
+Ciney,50.3,5.1
+San Miguel,11.492,119.871
+Dison,50.6167,5.85
+Vienna,38.8996,-77.2597
+Bangor,53.228,-4.128
+Eghezee,50.5833,4.9167
+Brakel,51.7167,9.1833
+Leopoldsburg,51.1169,5.2558
+Concepcion,-11.9185,-75.3129
+Landen,50.7547,5.0814
+Upala,10.8645,-84.9942
+Westport,41.5886,-71.0837
+Griffith,41.5277,-87.4239
+Zulte,50.9167,3.4333
+Santa Ana,13.9333,-87.2667
+Aberdeen,39.5151,-76.1733
+Ternat,50.8667,4.1833
+Dublin,32.536,-82.928
+Ranohira,-22.4333,45.35
+Bastogne,50.0042,5.72
+Aveiro,-3.6058,-55.3319
+Tarancon,40.0167,-3
+Maryborough,-25.5375,152.7019
+Beernem,51.1428,3.3408
+Warsaw,41.2448,-85.8465
+Rumst,51.0833,4.4167
+Overpelt,51.2167,5.4167
+Exeter,42.9901,-70.9646
+Kerman,36.7248,-120.0625
+San Miguel,13.6411,124.3008
+Aartselaar,51.1333,4.3833
+Ulverstone,-41.1667,146.1667
+Waremme,50.6975,5.2556
+Seymour,35.8783,-83.7669
+Bonheiden,51.0333,4.5333
+Tremelo,50.9911,4.7044
+Genappe,50.6,4.45
+Linguere,15.3944,-15.1167
+Horsham,-36.7167,142.2
+Victoria,12.45,124.3167
+Glasgow,39.6015,-75.7473
+Paralimni,35.0333,33.9833
+Meru,49.2358,2.135
+Berlare,51.025,4.0025
+Murray Bridge,-35.117,139.267
+Florencia,10.3665,-84.4814
+Opwijk,50.9667,4.1833
+San Juan,10.2667,125.1833
+Buggenhout,51,4.2
+Lummen,50.9833,5.2
+Swansea,38.5507,-89.9858
+Ravels,51.3667,5
+Bakel,14.9042,-12.4583
+Penrith,-33.7511,150.6942
+Srinagar,26.783,84.3018
+Anzegem,50.8336,3.4783
+Echuca,-36.1333,144.75
+Glasgow,37.0048,-85.9263
+Penrith,54.6648,-2.7548
+Enniskillen,54.3447,-7.6389
+Thuin,50.3333,4.2833
+Monterrey,4.8783,-72.8972
+Sprimont,50.5,5.6667
+Warwick,40.2503,-75.0818
+Amay,50.5478,5.3192
+Herselt,51.05,4.8833
+Haacht,50.9767,4.6372
+Lubbeek,50.8817,4.8414
+Port Lincoln,-34.7322,135.8586
+Forster,-32.1806,152.5117
+Kuurne,50.8519,3.2861
+Rio Branco,-32.5972,-53.3833
+Mount Barker,-35.0667,138.85
+Plumtree,-20.4781,27.7972
+Liedekerke,50.8667,4.0833
+Verona,40.8323,-74.2431
+Wingene,51.05,3.2667
+Tokoroa,-38.2167,175.8667
+Bari,25.8769,86.1918
+Koundara,12.48,-13.296
+Emerald,-23.5208,148.1619
+Assenede,51.2333,3.75
+Oud-Turnhout,51.3167,4.9833
+Jodoigne,50.7167,4.8667
+Beloeil,50.5333,3.7167
+Ichtegem,51.1,3
+Orange,41.2827,-73.0272
+Jabbeke,51.1833,3.1
+Enghien,50.7,4.0333
+Srinagar,25.9823,86.6662
+Cordoba,0.855,-77.5211
+Alexandria,45.8776,-95.3767
+Vieste,41.8833,16.1667
+Boechout,51.15,4.4833
+Sale,-38.1,147.0667
+Athens,35.4573,-84.6045
+Bergen,54.4167,13.4333
+Wanze,50.5353,5.2133
+Wommelgem,51.2,4.5167
+Oosterzele,50.95,3.8
+Couvin,50.05,4.4833
+San Juan,10.65,-61.45
+Aberystwyth,52.414,-4.081
+Verona,42.9892,-89.5383
+Ipswich,42.6857,-70.8399
+Blegny,50.6667,5.7333
+Dinant,50.2667,4.9167
+Llanes,43.4214,-4.7564
+Beyne-Heusay,50.6167,5.65
+Bridport,50.7336,-2.7584
+Nicosia,37.75,14.4
+Bergen,52.8103,9.9611
+Zelzate,51.2,3.8167
+Kastoria,40.5167,21.2667
+Kingston,41.9862,-70.7482
+Grez-Doiceau,50.7333,4.7
+Alexandria,-6.4128,-38.0158
+Arendonk,51.3167,5.0833
+San Juan,14.4167,-88.4333
+Jaca,42.55,-0.55
+Keerbergen,51.0031,4.6311
+As,50.2239,12.195
+Zandhoven,51.2167,4.65
+Bocholt,51.1722,5.5794
+Los Chiles,10.9639,-84.599
+Esneux,50.5333,5.5667
+Bergen,51.6,6.05
+Bridgetown,39.1552,-84.6359
+Gavere,50.9333,3.6667
+Mettet,50.3192,4.6569
+Olen,51.15,4.85
+Ambohitsilaozana,-17.6833,48.45
+Dover,40.5304,-81.4806
+Burgos,17.3331,120.4944
+Boortmeerbeek,50.9833,4.5667
+Portland,36.5921,-86.5239
+Cambridge,38.5515,-76.0787
+Anderlues,50.408,4.2696
+Santiago,9.8291,-84.3044
+De Haan,51.2731,3.0336
+Gerpinnes,50.3369,4.5283
+Laarne,51.0167,3.85
+Newcastle,47.5304,-122.1633
+Zaragoza,28.4869,-100.9175
+Truro,45.3647,-63.28
+Kortemark,51.0286,3.0444
+Malmedy,50.4167,6.0167
+Dalby,-27.1813,151.2661
+San Salvador,-31.6167,-58.5
+Warwick,-28.2152,152.0352
+Athens,32.2041,-95.8321
+Los Santos,6.9167,-73.0833
+Buenos Aires,-7.7258,-35.3269
+Beaumont,18.4833,-73.9667
+Rochefort,50.1667,5.2167
+Zonnebeke,50.8667,2.9833
+Steenokkerzeel,50.9189,4.5083
+Anna Regina,7.2633,-58.4806
+Geneva,42.8645,-76.9826
+Aywaille,50.4733,5.6739
+Niel,51.1167,4.3333
+Deerlijk,50.8533,3.3533
+Georgetown,31.9849,-81.226
+Kinrooi,51.145,5.7403
+Profondeville,50.3769,4.87
+Meru,24.0097,85.4673
+Veurne,51.0722,2.6622
+Valencia,10.65,-61.2
+Nevele,51.0333,3.55
+Gistel,51.1561,2.9672
+Derby,41.3265,-73.0833
+Leeds,33.5436,-86.5639
+Inverell,-29.7667,151.1167
+Melle,51,3.8
+Farciennes,50.4313,4.5476
+Capdepera,39.7,3.4333
+Cordoba,9.5867,-74.8272
+Kampenhout,50.9413,4.5496
+Parkes,-33.133,148.176
+Santo Domingo,12.2631,-85.0822
+Manchester,37.4902,-77.5396
+Rijkevorsel,51.35,4.7667
+Alken,50.8761,5.3078
+Theux,50.5349,5.8134
+Wyndham,37.6924,-77.6123
+Bernissart,50.4833,3.65
+Berlaar,51.1167,4.65
+Freeport,10.45,-61.4167
+Vosselaar,51.3167,4.8833
+Wichelen,51,3.9667
+Grafton,43.3204,-87.948
+Gladstone,45.3864,-122.5934
+Chaumont-Gistoux,50.6839,4.6947
+Manchester,35.463,-86.0774
+Porto,-3.8928,-42.71
+Clermont,49.3789,2.4125
+Salem,40.9049,-80.8492
+Sixaola,9.5579,-82.6698
+Nieuwpoort,51.1167,2.75
+Podor,16.6167,-15.0333
+Zaragoza,17.9487,-94.6436
+Kingston,-42.9769,147.3083
+Broome,-17.9619,122.2361
+Santa Ana,14.0667,-87.95
+Mareeba,-16.9833,145.4167
+Hoeilaart,50.7667,4.4667
+Durbuy,50.3522,5.4563
+Plymouth,41.6642,-73.0263
+De Pinte,51,3.65
+Tudela,10.636,124.47
+Winton,37.3854,-120.6173
+Staden,50.975,3.0147
+Batemans Bay,-35.7081,150.1744
+Ingelmunster,50.9208,3.2533
+De Panne,51.1019,2.5917
+Gympie,-26.19,152.6655
+Grobbendonk,51.2,4.7167
+Sevilla,9.7,124.05
+Florennes,50.2514,4.6044
+Retie,51.2667,5.0667
+Grafton,-29.6833,152.9333
+Oud-Heverlee,50.8333,4.6667
+Seneffe,50.5333,4.25
+Roma,26.4166,-99.0061
+Virton,49.5675,5.5325
+Moorslede,50.8906,3.0628
+Besalampy,-16.75,44.4833
+Meulebeke,50.9497,3.2869
+Hamilton,39.9432,-77.7327
+Damme,51.25,3.2833
+Waasmunster,51.1097,4.0847
+Hulshout,51.0833,4.7833
+Young,-34.3,148.3
+Forest,37.3728,-79.2831
+Bowral,-34.4792,150.4181
+Nowra,-34.8808,150.6075
+Norwich,42.9833,-80.6
+Newcastle,35.2401,-97.5995
+Wijnegem,51.2333,4.5333
+Borgloon,50.8022,5.3433
+Waterloo,38.3403,-90.1538
+Court-Saint-Etienne,50.6333,4.5667
+Lagos,41.0667,25.025
+Damascus,45.4233,-122.4436
+Freeport,28.9453,-95.3601
+Apia,5.1,-75.95
+San Juan,17.6834,120.732
+Raeren,50.6833,6.1167
+Burgos,18.5114,120.6444
+Jaipur,23.4313,86.1493
+Dali,35.0211,33.42
+Santo Domingo,6.4708,-75.1658
+Swan Hill,-35.3333,143.55
+Wellington,40.7,-105.0054
+Estaimpuis,50.6756,3.2758
+Opglabbeek,51.05,5.5833
+Villahermosa,5,-75.1667
+Benalla,-36.5519,145.9817
+Mudgee,-32.6125,149.5872
+Vienna,39.324,-81.5383
+Nelson,49.5,-117.2833
+Sint-Lievens-Houtem,50.9167,3.8667
+Spa,50.4925,5.8642
+Begijnendijk,51.0186,4.785
+Meerhout,51.1333,5.0833
+Jurbise,50.5333,3.9333
+Plombieres,50.7333,5.95
+Belgrade,45.7789,-111.1736
+Avelgem,50.7753,3.4442
+Reading,39.2242,-84.4333
+Santiago,-14.1892,-75.7126
+Hamilton,-37.7333,142.0167
+Bowen,-20.0102,148.2416
+Lima,-23.9,-56.3333
+London,39.8935,-83.4375
+Victoria,44.8634,-93.6585
+Exeter,36.2941,-119.1459
+Rouvroy,50.3936,2.9039
+Paris,36.2933,-88.3065
+Welkenraedt,50.6606,5.9714
+Ballina,-28.8333,153.5333
+Southampton,39.9137,-74.7171
+Bertem,50.85,4.6167
+Bierbeek,50.8333,4.7667
+Hooglede,50.9781,3.0817
+Houthulst,50.9783,2.9506
+Plymouth,41.3483,-86.3187
+Paris,38.2016,-84.2718
+Lint,51.1167,4.4833
+Granada,6.147,-75.188
+Moree,-29.465,149.8344
+Kingaroy,-26.5408,151.8394
+Erquelinnes,50.3101,4.1219
+Holsbeek,50.9167,4.7667
+Pepinster,50.5667,5.8167
+Genova,1.6442,-77.0194
+Huldenberg,50.7833,4.5833
+Alexandria,38.9621,-84.3859
+Cambridge,40.0221,-81.5869
+Ledegem,50.8531,3.1267
+Cairo,30.879,-84.205
+San Isidro,9.8,124.3
+Lovendegem,51.1,3.6
+Portland,-38.3333,141.6
+Sola,21.6744,-77.6806
+Wielsbeke,50.9089,3.3697
+Hoeselt,50.85,5.4833
+Raipur,25.4226,86.8498
+Oudenburg,51.1833,3
+Dessel,51.2333,5.1167
+Margarita,9.0833,-74.2
+Colac,-38.3403,143.5847
+Chimay,50.05,4.3167
+Varna,53.3806,60.9803
+Hobart,44.4967,-88.1602
+Rasht,39.0167,70.3833
+Tweed Heads,-28.1833,153.55
+Oberstdorf,47.4097,10.2792
+Halen,50.9481,5.1144
+Berlin,44.4869,-71.2599
+Awans,50.6669,5.4633
+Gopalpur,19.2586,84.9052
+Filadelfia,5.3,-75.6
+Santa Ana,9.2444,-64.6353
+Gore,8.149,35.537
+Chita,6.1667,-72.4167
+Juprelle,50.7167,5.5333
+Herenthout,51.15,4.7667
+Granada,4.5186,-74.3514
+Perwez,50.6241,4.815
+Gooik,50.8,4.1167
+Cambridge,45.5612,-93.2283
+San Sebastian de la Gomera,28.0922,-17.11
+La Bruyere,50.5,4.8
+Prospect,41.4993,-72.9761
+Concepcion,8.4167,123.6
+Yvoir,50.3333,4.8833
+Plymouth,42.3718,-83.468
+Sheffield,34.757,-87.6977
+Augusta,37.6955,-96.9919
+Philippeville,50.2,4.55
+Ardooie,50.9667,3.1833
+Bassenge,50.7586,5.6086
+Beauraing,50.1092,4.9567
+Wanaka,-44.7,169.15
+Mandurah,-32.5289,115.7231
+Katoomba,-33.715,150.312
+Burgos,16.525,120.4583
+Lichtervelde,51.0333,3.1333
+Salem,40.0539,-111.6718
+Gisborne,-37.49,144.5889
+Koekelare,51.0906,2.9803
+Galmaarden,50.75,3.9667
+Ararat,-37.2833,142.9167
+Charters Towers,-20.0765,146.2614
+Teruel,2.75,-75.5667
+Gilgit,35.9208,74.3083
+Plymouth,43.7447,-87.966
+Deniliquin,-35.5331,144.9667
+Trujillo,39.4653,-5.8789
+Bertrix,49.8542,5.2533
+Merksplas,51.3667,4.8667
+Moranbah,-22.0016,148.0533
+San Isidro,9.9369,126.0886
+Maryborough,-37.05,143.735
+Jalhay,50.5572,5.9642
+San Fernando,13.6767,-86.3144
+Paris,39.6148,-87.6903
+Ladysmith,48.9975,-123.8203
+Narrabri,-30.3317,149.7678
+Bairnsdale,-37.8333,147.6167
+Port Augusta,-32.4925,137.7658
+Wick,58.454,-3.089
+Thames,-37.1383,175.5375
+Rabaul,-4.2,152.1833
+Seymour,-37.03,145.13
+Newman,-23.3539,119.7319
+Cooma,-36.2317,149.1178
+Carnarvon,-30.9667,22.1333
+Roma,-26.5733,148.7869
+Northam,-31.6531,116.6661
+Yeppoon,-23.1288,150.7444
+Kaitaia,-35.1125,173.2628
+Scone,-32.0483,150.8678
+Goondiwindi,-28.5461,150.3097
+Albury,-36.0806,146.9158
+Lithgow,-33.4833,150.15
+Singleton,-32.5667,151.1697
+Wonthaggi,-38.6056,145.5917
+Kununurra,-15.7736,128.7386
+Victor Harbor,-35.55,138.6167
+Lismore,-28.8167,153.2833
+Ingham,-18.6508,146.1572
+Smithton,-40.844,145.12
+Westport,-41.7581,171.6022
+Narrogin,-32.936,117.178
+Manjimup,-34.2411,116.1464
+Merimbula,-36.8983,149.9011
+Port Hedland,-20.31,118.6011
+Clare,-33.8333,138.6
+Katanning,-33.6908,117.5553
+Charleville,-26.4016,146.2383
+Hokitika,-42.7156,170.9681
+Tom Price,-22.6939,117.795
+Esperance,-33.8611,121.8919
+Longreach,-23.4422,144.2491
+Merredin,-31.482,118.279
+Donegal,54.654,-8.11
+Mount Barker,-34.63,117.6669
+Scottsdale,-41.1667,147.5167
+Bourke,-30.1,145.9333
+Exmouth,-21.9331,114.1281
+Queenstown,-42.0667,145.55
+Kaikoura,-42.4,173.68
+Rockhampton,-23.3781,150.5136
+Maitland,-32.7167,151.55
+Innisfail,-17.5238,146.0311
+Mysore,12.3086,76.6531
+Kalbarri,-27.71,114.16
+Ouyen,-35.0667,142.317
+Halls Creek,-18.23,127.67
+Katherine,-14.4667,132.2667
+Zaragoza,13.5833,-89.2833
+Port Pirie,-33.1858,138.0169
+Ambala,30.3786,76.7725
+Yulara,-25.2406,130.9889
+Bicheno,-41.8667,148.2833
+Roebourne,-20.7667,117.15
+Winton,-22.3913,143.0381
+Oatlands,-42.3,147.3706
+Kempsey,-31.0833,152.8333
+Onslow,-21.6333,115.1167
+Tamworth,-31.0833,150.9167
+Leonora,-28.8845,121.3308
+Wyndham,-15.4825,128.123
+Meekatharra,-26.5931,118.4911
+Norseman,-32.1961,121.778
+Morawa,-29.2111,116.009
+Ravensthorpe,-33.5831,120.049
+Georgetown,-18.3,143.55
+Ivanhoe,-32.8983,144.3
+Carnarvon,-24.8672,113.6611
+Mount Isa,-20.7261,139.4938
+Victoria,13.95,-88.6333
+Bhuj,23.25,69.67
+San Fernando,9.2797,-74.5339
+Portland,41.5988,-72.589
+Manchester,42.9921,-77.1897
+Hastings,43.3215,-76.1582
+Jumla,29.25,82.2167
+Freetown,41.7714,-71.0157
+Ixtapa Zihuatanejo,17.6367,-101.5514
+Hamilton,40.9334,-75.2844
+Freeport,43.8556,-70.1009
+Tiksi,71.6269,128.835
+Tura,64.2833,100.2167
+Palana,59.084,159.95
+Ceduna,-32.1167,133.6667
+Mariscal Jose Felix Estigarribia,-22.0333,-60.6333
+Woomera,-31.1496,136.8
